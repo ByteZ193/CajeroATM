@@ -1,0 +1,296 @@
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\jenniferalondra\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\Edwin\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\jenniferalondra\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\jenniferalondra\Downloads\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\TransaccionRealizada.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\TransaccionRealizada.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\Edwin\Desktop\Prog. Visual\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\TransaccionRealizada.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\Edwin\Desktop\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.dll
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\bin\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.input.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.TagHelpers.output.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorCoreGenerate.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultarBalance.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depositar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Menu.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Retirar.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\TransaccionRealizada.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Home\Transferir.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.RazorTargetAssemblyInfo.cs
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.Views.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.Manifest.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\staticwebassets\Cajero.StaticWebAssets.xml
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
+C:\Users\Edwin\Desktop\Prog. Visual\CajeroVSCode\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CopyComplete
